@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yamin</h1>
 <h3 align="center">Web developer</h3>
 
-- 🌱 I’m currently learning **Python Django framework.**
+- 🌱 I’m currently learning "PHP Laravel framework* & *Python Django framework.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yamin-myanmar](https://github.com/Yamin-myanmar)
 
